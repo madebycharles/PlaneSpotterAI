@@ -12,7 +12,7 @@ Key features that will be used in training the model include;
 
 ## Categorisation
 The model is expected to be able to categorise the planes into two primary categories 
-1. Manufacturer e.g Boeing, Airbus, Embradier, Bombadier, Antonov, etc
+1. Manufacturer e.g Boeing, Airbus, Embraer, Bombardier, Antonov, etc
 2. Family series e.g A220s, A320s, A350s, A380s, 737s, 777s,787s, 747s, CRJs, etc
 
 Other secondary categories such as livery on the identified plane will be subsequently baked in as a use case of its own.
