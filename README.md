@@ -26,7 +26,7 @@ When an image is processed, PlaneSpotterAI will provide detailed analysis includ
 - Aircraft family series (A320, 737, 777, etc.)
 - Confidence scores for each prediction
 
-**Feature Analysis & Reasoning**
+**Feature Analysis & Reasoning:**
 The AI will detail its reasoning by identifying specific aircraft features from the image:
 
 ```json
